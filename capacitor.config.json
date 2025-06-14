@@ -1,0 +1,11 @@
+
+{
+  "appId": "app.lovable.e9b1c2c10f19480faaef82abb4471d34",
+  "appName": "Eliza",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "url": "https://e9b1c2c1-0f19-480f-aaef-82abb4471d34.lovableproject.com?forceHideBadge=true",
+    "cleartext": true
+  }
+}
