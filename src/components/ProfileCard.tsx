@@ -57,14 +57,14 @@ const ProfileCard = () => {
           <div className="mt-8 flex flex-col sm:flex-row gap-4">
             <Button 
               size="lg" 
-              className="flex-1 bg-primary hover:bg-primary/90 hover:scale-105 hover:shadow-xl hover:shadow-primary/40 text-primary-foreground font-bold tracking-wide text-base py-6 rounded-xl shadow-lg shadow-primary/20 transition-all duration-300 transform hover:rotate-1"
+              className="flex-1 bg-primary hover:bg-primary/90 hover:scale-105 hover:shadow-xl hover:shadow-primary/40 text-primary-foreground font-bold tracking-wide text-base py-6 rounded-xl shadow-lg shadow-primary/20 transition-all duration-300"
             >
               CHAT WITH ELIZA
             </Button>
             <Button 
               size="lg" 
               variant="outline" 
-              className="flex-1 bg-transparent hover:bg-white/10 hover:scale-105 hover:shadow-xl hover:shadow-white/20 text-white font-bold tracking-wide text-base py-6 rounded-xl border-primary hover:border-primary/80 transition-all duration-300 transform hover:-rotate-1"
+              className="flex-1 bg-transparent hover:bg-white/10 hover:scale-105 hover:shadow-xl hover:shadow-white/20 text-white font-bold tracking-wide text-base py-6 rounded-xl border-primary hover:border-primary/80 transition-all duration-300"
             >
               DOWNLOAD THE APP
             </Button>
